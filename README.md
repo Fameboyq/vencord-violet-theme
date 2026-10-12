@@ -9,8 +9,9 @@
 [![Vencord](https://img.shields.io/badge/Vencord-Compatible-7c4dff)](https://vencord.dev/)
 [![BetterDiscord](https://img.shields.io/badge/BetterDiscord-Compatible-3ba55d)](https://betterdiscord.app/)
 [![Vesktop](https://img.shields.io/badge/Vesktop-Compatible-00bcd4)](https://github.com/Vencord/Vesktop)
+[![Donate](https://img.shields.io/badge/Donate-DonationAlerts-ea7600?logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/fameboyq)
 
-[English Guide](#-english-installation) • [Инструкция на русском](#-инструкция-на-русском)
+[English Guide](#-english-installation) • [Инструкция на русском](#-инструкция-на-русском) • [💖 Support](https://www.donationalerts.com/r/fameboyq)
 
 </div>
 
@@ -70,6 +71,10 @@
 2. В настройках Vencord или BetterDiscord нажмите кнопку **«Открыть папку тем»**.
 3. Закиньте скачанный `.css` файл в эту папку.
 4. Включите тумблер темы в списке.
+
+## 💖 Support the Author / Поддержать автора
+* ☕ **DonationAlerts:** [donationalerts.com/r/fameboyq](https://www.donationalerts.com/r/fameboyq)
+* ✈️ **Telegram:** [@fameboyq](https://t.me/fameboyq)
 
 ---
 
